@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nostr.thesamecat.io.ico",
     "slug": "the-same-cat-s-relay",
     "status": "up",
-    "uptime": "99.90%",
+    "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.90%",
-    "time": 208,
-    "timeDay": 315,
-    "timeWeek": 213,
-    "timeMonth": 192,
-    "timeYear": 208,
+    "uptimeYear": "99.91%",
+    "time": 211,
+    "timeDay": 427,
+    "timeWeek": 245,
+    "timeMonth": 203,
+    "timeYear": 211,
     "dailyMinutesDown": {
       "2023-06-23": 92
     }
