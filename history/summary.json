@@ -4,7 +4,7 @@
     "url": "https://nostr.thesamecat.io",
     "icon": "https://icons.duckduckgo.com/ip3/nostr.thesamecat.io.ico",
     "slug": "the-same-cat-s-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 195,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2023-07-12": 0,
       "2023-06-23": 92
     }
   }
